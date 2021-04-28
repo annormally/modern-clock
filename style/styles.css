@@ -1,0 +1,49 @@
+html, body {
+    margin: 0;
+    background-color: #658EECAA;
+}
+
+h1 {
+    text-align: center;
+    font-size: 34pt;
+}
+
+hr {
+    width: 45%;
+    color: #032a89;
+}
+
+.clock-panel {
+    text-align: center;
+    width: 100%;
+    height: 380px;
+
+}
+
+.clock-banner {
+    border-radius: 5px;
+    border: 2px solid #032a89;
+    margin: 10px auto;
+    padding: 5px 5px 5px 5px;
+    width: 100px;
+    height: 100px;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+}
+
+.clock-banner-sec {
+    border-radius: 5px;
+    border: 2px solid #032a89;
+    margin: 10px auto;
+    padding: 5px 5px 5px 5px;
+    width: 100px;
+    height: 100px;
+    background-image: -webkit-linear-gradient(top, #ea524c, #ff0000);
+    background-image: -moz-linear-gradient(top, #ea524c, #ff0000);
+    background-image: -ms-linear-gradient(top, #ea524c, #ff0000);
+    background-image: -o-linear-gradient(top, #ea524c, #ff0000);
+    background-image: linear-gradient(to bottom, #ea524c, #ff0000);
+}
